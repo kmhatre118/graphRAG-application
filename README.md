@@ -5,7 +5,7 @@ AI-Powered Graph-Based Analysis for Triathlon Data
 ## Description
 
 This dashboard is an AI-powered sports analytics platform that helps triathletes, coaches, and analysts uncover deep insights from race data using graph-based AI and LangChain agents.
-For a more detailed walk through check out this video here: https://youtu.be/0Y0L9BfDHZw
+For a more detailed walk through check out this video here: https://www.youtube.com/watch?v=5WAgwRJlMYY
 
 
 ## Feature Overview
